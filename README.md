@@ -1,3 +1,5 @@
+> **Language:** English · [Português (Brasil)](README.pt-BR.md)
+
 <div align="center">
 
 # Eduardo Lima
@@ -31,89 +33,26 @@ I enjoy working across the entire stack: **interface, business logic, data, auto
 
 ## 🧠 What I build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Internal platforms
-Operational systems, management tools and interfaces designed around real business workflows.
-
-### ⚙️ Automation
-Replacing repetitive manual work with reliable flows, integrations and intelligent tooling.
-
-### 📊 Dashboards & analytics
-Turning raw operational data into information people can actually use.
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Web apps & PWAs
-Responsive applications with a strong focus on usability, performance and practical features.
-
-### 🤖 AI-assisted workflows
-Using AI where it genuinely improves extraction, analysis, generation or decision support.
-
-### 📄 Document automation
-Generating structured reports, documents and operational outputs from data and field inputs.
-
-</td>
-</tr>
-</table>
+- Internal platforms and operational systems
+- Business automation and integrations
+- Dashboards and analytics
+- Web apps and PWAs
+- AI-assisted workflows
+- Document automation
 
 ---
 
-## 🚀 Projects I'm bringing to GitHub
+## 🚀 Portfolio
 
-### 🟢 SJ One 360
-A customer service and operations platform built to centralize workflows, dashboards, reporting, telephony data, WhatsApp operations and comparative analytics.
+My public repositories include customer-service platforms, occupational-safety tools, inspection PWAs, conversion-focused websites, workforce scheduling, local AI developer tooling and operational automation.
 
-### 🔵 Peritus SST
-A system for generating occupational safety and technical reports from field information, OCR, risk analysis, images and automated document generation.
-
-### 🟠 Innovativa Inspections
-A Progressive Web App for inspections and field operations with customizable checklists, photos, signatures, offline support and synchronization.
-
-### 🟣 Innovativa SST
-Web experiences and conversion-focused landing pages for occupational health and workplace safety services.
-
-> Repositories are being prepared for public release with sensitive business data and private integrations removed.
+Each public repository is prepared as a **sanitized portfolio edition**, keeping the engineering work while removing sensitive business data and private configuration.
 
 ---
 
 ## 🛠️ Tech stack
 
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Backend & Automation
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
-![REST API](https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-### Data & Tools
-![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-</div>
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EduSchorr&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=8B949E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSchorr&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=8B949E" />
-
-</div>
+Python · FastAPI · React · TypeScript · JavaScript · HTML · CSS · SQLite · Node.js · REST APIs · Git · GitHub
 
 ---
 
