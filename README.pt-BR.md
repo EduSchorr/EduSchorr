@@ -39,6 +39,18 @@ Os repositórios públicos incluem sistemas de atendimento, ferramentas de SST, 
 
 Cada projeto público é preparado como uma **Portfolio Edition sanitizada**, preservando o trabalho técnico sem expor dados confidenciais ou configurações privadas.
 
+### Projetos de automação
+
+- [SAC Automation Hub](https://github.com/EduSchorr/sac-automation-hub) — hub para iniciar, agendar e acompanhar automações
+- [Central de Automação Financeira](https://github.com/EduSchorr/financial-automation-center) — conciliação, monitoramento e rotinas financeiras
+- [Central de Atendimento Digital](https://github.com/EduSchorr/digital-service-center) — tickets, permissões e fluxos operacionais
+- [Suíte de Comunicação com Lojas](https://github.com/EduSchorr/store-communications-suite) — preparação de comunicações segmentadas
+- [Automação de Termos de Retirada](https://github.com/EduSchorr/pickup-term-automation) — geração de documentos e rastreio de envios
+- [Ouvidoria + WhatsApp](https://github.com/EduSchorr/ombudsman-whatsapp-automation) — leitura, classificação e acompanhamento
+- [Controle de Pendências](https://github.com/EduSchorr/pending-cases-tracker) — processamento de pendências e filas de contato
+- [Central de Verificação de Devoluções](https://github.com/EduSchorr/returns-verification-center) — monitoramento e classificação de respostas
+- [Toolkit de Automações Operacionais](https://github.com/EduSchorr/operations-automation-toolkit) — utilitários para e-commerce, finanças e atendimento
+
 ## 🛠️ Tecnologias
 
 Python · FastAPI · React · TypeScript · JavaScript · HTML · CSS · SQLite · Node.js · REST APIs · Git · GitHub
