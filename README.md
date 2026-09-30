@@ -89,6 +89,17 @@ Central workspace for discovering, starting, scheduling and monitoring multiple 
 
 > Public repositories are prepared as sanitized portfolio editions with sensitive business data and private integrations removed.
 
+### Automation portfolio
+
+- [Financial Automation Center](https://github.com/EduSchorr/financial-automation-center) — reconciliation, monitoring and finance workflows
+- [Digital Service Center](https://github.com/EduSchorr/digital-service-center) — tickets, permissions and operational workflows
+- [Store Communications Suite](https://github.com/EduSchorr/store-communications-suite) — targeted communication workflows
+- [Pickup Term Automation](https://github.com/EduSchorr/pickup-term-automation) — document generation and dispatch tracking
+- [Ombudsman WhatsApp Automation](https://github.com/EduSchorr/ombudsman-whatsapp-automation) — message intake, classification and follow-up
+- [Pending Cases Tracker](https://github.com/EduSchorr/pending-cases-tracker) — pending-case processing and contact queues
+- [Returns Verification Center](https://github.com/EduSchorr/returns-verification-center) — return monitoring and response classification
+- [Operations Automation Toolkit](https://github.com/EduSchorr/operations-automation-toolkit) — focused utilities for e-commerce, finance and service operations
+
 ---
 
 ## 🛠️ Tech stack
