@@ -50,6 +50,8 @@ Cada projeto público é preparado como uma **Portfolio Edition sanitizada**, pr
 - [Controle de Pendências](https://github.com/EduSchorr/pending-cases-tracker) — processamento de pendências e filas de contato
 - [Central de Verificação de Devoluções](https://github.com/EduSchorr/returns-verification-center) — monitoramento e classificação de respostas
 - [Toolkit de Automações Operacionais](https://github.com/EduSchorr/operations-automation-toolkit) — utilitários para e-commerce, finanças e atendimento
+- [Landing Pages Peritus SST](https://github.com/EduSchorr/peritus-sst-landing-pages) — calculadoras SST e páginas focadas em conversão
+- [Laboratório de Automação de Laudos SST](https://github.com/EduSchorr/sst-report-automation-lab) — análise de acervo, anonimização e pesquisa documental
 
 ## 🛠️ Tecnologias
 
