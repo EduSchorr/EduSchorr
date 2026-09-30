@@ -57,6 +57,17 @@ Cada projeto público é preparado como uma **Portfolio Edition sanitizada**, pr
 
 Python · FastAPI · React · TypeScript · JavaScript · HTML · CSS · SQLite · Node.js · REST APIs · Git · GitHub
 
+## 📈 Visão do portfólio
+
+| Projetos públicos | Stack principal | Áreas |
+| --- | --- | --- |
+| **17 projetos de portfólio** | **Python · TypeScript · JavaScript · React · SQLite** | **Automação · IA · Sistemas Internos · SST · PWAs · Analytics** |
+| Produtos locais e web | APIs, fluxos desktop e interfaces no navegador | Edições públicas sanitizadas e CI quando aplicável |
+
+> Evito cards externos de estatísticas do GitHub para o perfil continuar funcionando mesmo quando esses serviços sofrem limite de requisições ou indisponibilidade.
+
+---
+
 ## 🔭 Foco atual
 
 - Modernização de sistemas operacionais;
