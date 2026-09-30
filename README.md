@@ -99,6 +99,8 @@ Central workspace for discovering, starting, scheduling and monitoring multiple 
 - [Pending Cases Tracker](https://github.com/EduSchorr/pending-cases-tracker) — pending-case processing and contact queues
 - [Returns Verification Center](https://github.com/EduSchorr/returns-verification-center) — return monitoring and response classification
 - [Operations Automation Toolkit](https://github.com/EduSchorr/operations-automation-toolkit) — focused utilities for e-commerce, finance and service operations
+- [Peritus SST Landing Pages](https://github.com/EduSchorr/peritus-sst-landing-pages) — SST calculators and conversion-focused service pages
+- [SST Report Automation Lab](https://github.com/EduSchorr/sst-report-automation-lab) — corpus analysis, anonymization and document-research tooling
 
 ---
 
