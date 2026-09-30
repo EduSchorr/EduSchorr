@@ -130,14 +130,14 @@ Central workspace for discovering, starting, scheduling and monitoring multiple 
 
 ---
 
-## 📈 GitHub
+## 📈 Portfolio snapshot
 
-<div align="center">
+| Public projects | Core stack | Main areas |
+| --- | --- | --- |
+| **17 portfolio projects** | **Python · TypeScript · JavaScript · React · SQLite** | **Automation · AI · Internal Systems · SST · PWAs · Analytics** |
+| Local-first and web products | APIs, desktop workflows and browser interfaces | Sanitized public editions with CI where applicable |
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EduSchorr&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=8B949E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSchorr&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=8B949E" />
-
-</div>
+> I intentionally avoid third-party GitHub statistics cards here so the profile stays reliable even when external stats services are rate-limited or unavailable.
 
 ---
 
