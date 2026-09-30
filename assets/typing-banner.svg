@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="64" viewBox="0 0 820 64" role="img" aria-labelledby="title desc">
+  <title id="title">Eduardo Lima developer message</title>
+  <desc id="desc">Animated messages about building software, automation, products and practical AI.</desc>
+  <rect width="820" height="64" rx="16" fill="transparent"/>
+  <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+     font-size="21" font-weight="600" text-anchor="middle" fill="#8B5CF6">
+    <text x="410" y="39" opacity="0">
+      Building software that solves real problems.
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="410" y="39" opacity="0">
+      Automating what shouldn't be manual.
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="410" y="39" opacity="0">
+      Turning operations into products.
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="410" y="39" opacity="0">
+      AI as a tool. Product thinking as the foundation.
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
