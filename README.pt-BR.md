@@ -1,20 +1,20 @@
 <div align="center">
 
-[English](README.md) &nbsp;·&nbsp; **Português (Brasil)**
+<p><a href="README.md">English</a> &nbsp;·&nbsp; <strong>Português (Brasil)</strong></p>
 
 <img src="assets/portfolio-cover-pt.svg" alt="Eduardo Lima — Desenvolvimento de software, sistemas, automação e IA." width="100%"/>
 
 <br/>
 
-### Desenvolvedor Full-Stack &nbsp;·&nbsp; Automação &nbsp;·&nbsp; Produtos com IA
+<h3>Desenvolvedor Full-Stack &nbsp;·&nbsp; Automação &nbsp;·&nbsp; Produtos com IA</h3>
 
-**Transformo processos confusos do mundo real em software simples de usar.**
+<p><strong>Transformo processos confusos do mundo real em software simples de usar.</strong></p>
 
-Projeto e desenvolvo aplicações, automações e ferramentas operacionais que tornam o trabalho diário mais claro, rápido e confiável.
+<p>Projeto e desenvolvo aplicações, automações e ferramentas operacionais<br/>que tornam o trabalho diário mais claro, rápido e confiável.</p>
 
 <img src="assets/typing-banner-pt.svg" alt="Mensagens animadas sobre desenvolvimento de software" width="820"/>
 
-[**Conhecer os projetos ↓**](#projetos-em-destaque) &nbsp;·&nbsp; [**Mais projetos ↓**](#explorar-mais-projetos) &nbsp;·&nbsp; [**Contato ↓**](#vamos-conversar)
+<p><a href="#projetos-em-destaque"><strong>Conhecer os projetos ↓</strong></a> &nbsp;·&nbsp; <a href="#explorar-mais-projetos"><strong>Mais projetos ↓</strong></a> &nbsp;·&nbsp; <a href="#vamos-conversar"><strong>Contato ↓</strong></a></p>
 
 </div>
 
@@ -126,14 +126,14 @@ Além dos destaques, publiquei ferramentas para atendimento, finanças, sites co
 <a id="vamos-conversar"></a>
 <div align="center">
 
-## Vamos construir algo útil.
+<h2>Vamos construir algo útil.</h2>
 
-**Tem um processo operacional que poderia ser mais simples?**
+<p><strong>Tem um processo operacional que poderia ser mais simples?</strong></p>
 
-Tenho interesse em automação, plataformas internas, ferramentas de desenvolvimento e produtos com boa experiência de uso.
+<p>Tenho interesse em automação, plataformas internas, ferramentas de desenvolvimento e produtos com boa experiência de uso.</p>
 
-[**Ver repositórios**](https://github.com/EduSchorr?tab=repositories) &nbsp;·&nbsp; [**Read in English**](README.md)
+<p><a href="https://github.com/EduSchorr?tab=repositories"><strong>Ver repositórios</strong></a> &nbsp;·&nbsp; <a href="README.md"><strong>Read in English</strong></a></p>
 
-<sub>Brasil 🇧🇷 · Construir coisas úteis. Melhorar. Evoluir.</sub>
+<p><sub>Brasil 🇧🇷 · Construir coisas úteis. Melhorar. Evoluir.</sub></p>
 
 </div>
