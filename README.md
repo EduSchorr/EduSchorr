@@ -1,168 +1,139 @@
-> **Language:** English · [Português (Brasil)](README.pt-BR.md)
-
 <div align="center">
 
-# Eduardo Lima
+**English** &nbsp;·&nbsp; [Português (Brasil)](README.pt-BR.md)
 
-### Full-Stack Developer · Automation · Internal Systems · Product Engineering
+<img src="assets/portfolio-cover.svg" alt="Eduardo Lima — Building useful software. Systems, automation, AI and product engineering." width="100%"/>
+
+<br/>
+
+### Full-Stack Developer &nbsp;·&nbsp; Automation &nbsp;·&nbsp; AI-Assisted Products
 
 **I turn messy real-world processes into software that feels simple.**
 
-Building useful systems, automations, dashboards and web applications with a strong focus on
-**UX, reliability and solving actual operational problems.**
+I design and build applications, automations and operational tools that make everyday work clearer, faster and more reliable.
 
-<br/>
+<img src="assets/typing-banner.svg" alt="Animated messages about turning problems into useful products" width="820"/>
 
-<img src="./assets/typing-banner.svg" alt="Animated developer message" />
+[**Explore my work ↓**](#featured-work) &nbsp;·&nbsp; [**More projects ↓**](#explore-more) &nbsp;·&nbsp; [**Contact ↓**](#lets-connect)
 
 </div>
 
 ---
 
-## 🚀 Featured projects
+<a id="featured-work"></a>
+## ✦ Featured work
+
+Six projects, six different engineering challenges — from local AI developer tools to field applications.
 
 | | |
-| --- | --- |
-| **⚫ [Nexo](https://github.com/EduSchorr/nexo-codex)**<br>Local-first interface for Codex with model controls, approvals, attachments and developer workflows.<br><sub>Python · JavaScript · local AI tooling</sub> | **🟢 [SJ One 360](https://github.com/EduSchorr/sj-one-360)**<br>Customer-service and operations platform for workflows, dashboards, automation and analytics.<br><sub>React · TypeScript · Python · SQLite</sub> |
-| **🔵 [Peritus SST](https://github.com/EduSchorr/peritus-sst)**<br>AI/OCR-assisted occupational-safety report workflow with structured document generation.<br><sub>Python · OCR · document automation · AI-assisted workflow</sub> | **⚙️ [SAC Automation Hub](https://github.com/EduSchorr/sac-automation-hub)**<br>Central workspace for starting, scheduling and monitoring multiple local automations.<br><sub>Python · orchestration · monitoring · scheduling</sub> |
-| **🟡 [Workforce Scheduler](https://github.com/EduSchorr/sistema-escalas-sac)**<br>Rule-based 5x2 scheduling engine with weekend rotation, permissions and audit.<br><sub>Python · SQLite · rules engine · CI</sub> | **🟠 [Innovativa Inspections](https://github.com/EduSchorr/innovativa-inspecoes)**<br>Responsive PWA for field inspections, checklists, photos and offline-friendly workflows.<br><sub>JavaScript · PWA · offline-first UX</sub> |
+| :--- | :--- |
+| [![Nexo — illustrative project cover](assets/projects/nexo.svg)](https://github.com/EduSchorr/nexo-codex)<br>**[Nexo — Codex Workspace](https://github.com/EduSchorr/nexo-codex)**<br>Local-first interface for Codex with conversation history, model controls, approvals and file attachments.<br><sub>Python · JavaScript · Developer Tools</sub> | [![SJ One 360 — illustrative project cover](assets/projects/sj-one.svg)](https://github.com/EduSchorr/sj-one-360)<br>**[SJ One 360 — Operations Platform](https://github.com/EduSchorr/sj-one-360)**<br>Customer-service workflows, analytics and automation brought together in a full-stack workspace.<br><sub>React · TypeScript · Python · SQLite</sub> |
+| [![Peritus SST — illustrative project cover](assets/projects/peritus.svg)](https://github.com/EduSchorr/peritus-sst)<br>**[Peritus SST — Document Intelligence](https://github.com/EduSchorr/peritus-sst)**<br>OCR and optional AI assistance for organizing technical evidence and generating structured reports under professional review.<br><sub>Python · OCR · DOCX · AI-Assisted</sub> | [![Automation Hub — illustrative project cover](assets/projects/hub.svg)](https://github.com/EduSchorr/sac-automation-hub)<br>**[SAC Automation Hub — Orchestration](https://github.com/EduSchorr/sac-automation-hub)**<br>Local control center for launching, scheduling and monitoring operational automations.<br><sub>Python · Processes · Scheduling</sub> |
+| [![Workforce Scheduler — illustrative project cover](assets/projects/scheduler.svg)](https://github.com/EduSchorr/sistema-escalas-sac)<br>**[Workforce Scheduler — Rules Engine](https://github.com/EduSchorr/sistema-escalas-sac)**<br>5×2 shift scheduling with weekend coverage, rotation constraints, permissions and audit records.<br><sub>Python · SQLite · Scheduling · CI</sub> | [![Innovativa Inspections — illustrative project cover](assets/projects/inspections.svg)](https://github.com/EduSchorr/innovativa-inspecoes)<br>**[Innovativa Inspections — Field PWA](https://github.com/EduSchorr/innovativa-inspecoes)**<br>Responsive checklist and inspection prototype with local persistence and offline-friendly flows.<br><sub>JavaScript · PWA · Field UX</sub> |
 
-<details>
-<summary><b>View all public projects</b></summary>
-
-<br/>
-
-- [Innovativa SST Website](https://github.com/EduSchorr/innovativa-sst-website) — conversion-focused B2B SST landing page
-- [Financial Automation Center](https://github.com/EduSchorr/financial-automation-center) — reconciliation, monitoring and finance workflows
-- [Digital Service Center](https://github.com/EduSchorr/digital-service-center) — tickets, permissions and operational workflows
-- [Store Communications Suite](https://github.com/EduSchorr/store-communications-suite) — targeted communication workflows
-- [Pickup Term Automation](https://github.com/EduSchorr/pickup-term-automation) — document generation and dispatch tracking
-- [Ombudsman WhatsApp Automation](https://github.com/EduSchorr/ombudsman-whatsapp-automation) — intake, classification and follow-up
-- [Pending Cases Tracker](https://github.com/EduSchorr/pending-cases-tracker) — pending-case processing and contact queues
-- [Returns Verification Center](https://github.com/EduSchorr/returns-verification-center) — return monitoring and response classification
-- [Operations Automation Toolkit](https://github.com/EduSchorr/operations-automation-toolkit) — focused utilities for e-commerce, finance and service operations
-- [Peritus SST Landing Pages](https://github.com/EduSchorr/peritus-sst-landing-pages) — SST calculators and conversion-focused pages
-- [SST Report Automation Lab](https://github.com/EduSchorr/sst-report-automation-lab) — corpus analysis, anonymization and document research
-
-</details>
-
-> Public repositories are prepared as sanitized portfolio editions with sensitive business data and private integrations removed.
+<sub>The artwork above is illustrative. Repositories contain public, sanitized portfolio editions rather than production customer data.</sub>
 
 ---
 
-## 🔄 From problem → product
-
-| 01 — Observe | 02 — Model | 03 — Build | 04 — Operate |
-| --- | --- | --- | --- |
-| Find friction in a real workflow | Turn rules and exceptions into a system | Build the interface, logic, data and integrations | Add monitoring, audit, backups, CI and iteration |
-| Repetitive work, spreadsheets, fragmented tools | States, permissions, validations, automations | Web apps, PWAs, local tools, APIs | Make the tool reliable enough for daily use |
-
-This is the pattern behind most of my work: **understand the operation first, then design software around it.**
-
----
-
-## ⚡ About me
-
-I'm a developer who likes to understand the **whole problem**, not just the code.
-
-My projects usually start with a process that is slow, repetitive, confusing or fragmented — and end as a product that makes that workflow faster, clearer and easier to operate.
-
-I enjoy working across the entire stack: **interface, business logic, data, automation, integrations and deployment**.
-
-> **Good software should remove friction, not create more of it.**
-
----
-
-## 🧠 What I build
+## ◇ How I think about software
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧩 Internal platforms
-Operational systems, management tools and interfaces designed around real business workflows.
-
-### ⚙️ Automation
-Replacing repetitive manual work with reliable flows, integrations and intelligent tooling.
-
-### 📊 Dashboards & analytics
-Turning raw operational data into information people can actually use.
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Web apps & PWAs
-Responsive applications with a strong focus on usability, performance and practical features.
-
-### 🤖 AI-assisted workflows
-Using AI where it genuinely improves extraction, analysis, generation or decision support.
-
-### 📄 Document automation
-Generating structured reports, documents and operational outputs from data and field inputs.
-
-</td>
+<td width="25%" valign="top"><b>01 · Understand</b><br><sub>Start with the people, pain points and actual process.</sub></td>
+<td width="25%" valign="top"><b>02 · Design</b><br><sub>Model the states, rules, edge cases and user experience.</sub></td>
+<td width="25%" valign="top"><b>03 · Build</b><br><sub>Connect interface, logic, data and integrations.</sub></td>
+<td width="25%" valign="top"><b>04 · Improve</b><br><sub>Test, monitor, document and iterate.</sub></td>
 </tr>
 </table>
 
+**From problem → to a working product.** That's the thread connecting most of my projects.
+
 ---
 
-## 🛠️ Tech stack
+## ◎ What I build
 
+| **Operational platforms** | **Automation & integrations** | **Applied AI & document tools** |
+| :--- | :--- | :--- |
+| Internal systems, queues, dashboards, permissions and reporting. | Local tools, workflow orchestration and repetitive-task reduction. | AI-assisted interfaces, OCR, evidence organization and structured reports. |
+
+## ⌘ Technology stack
+
+| Focus | Tools |
+| :--- | :--- |
+| **Frontend & UX** | `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `PWA` |
+| **Backend & automation** | `Python` · `FastAPI` · `Node.js` · `REST APIs` |
+| **Data & workflows** | `SQLite` · `Excel automation` · `Document processing` |
+| **Engineering** | `Git` · `GitHub Actions` · `Local-first tooling` |
+
+---
+
+<a id="explore-more"></a>
+## ▤ Explore more projects
+
+Beyond the featured work, I've published focused tools across operations, finance, commercial websites and SST research.
+
+<details>
+<summary><b>Operations & customer service · 4 projects</b></summary>
+
+- [Digital Service Center](https://github.com/EduSchorr/digital-service-center) — service requests, tickets and operational workflows.
+- [Pending Cases Tracker](https://github.com/EduSchorr/pending-cases-tracker) — case processing and follow-up queues.
+- [Returns Verification Center](https://github.com/EduSchorr/returns-verification-center) — return monitoring and reply classification.
+- [Ombudsman WhatsApp Automation](https://github.com/EduSchorr/ombudsman-whatsapp-automation) — structured intake and follow-up preparation.
+
+</details>
+
+<details>
+<summary><b>Finance, commerce & communication · 4 projects</b></summary>
+
+- [Financial Automation Center](https://github.com/EduSchorr/financial-automation-center) — reconciliation and finance workflows.
+- [Store Communications Suite](https://github.com/EduSchorr/store-communications-suite) — targeted store communication and recipient handling.
+- [Pickup Term Automation](https://github.com/EduSchorr/pickup-term-automation) — structured document generation and dispatch tracking.
+- [Operations Automation Toolkit](https://github.com/EduSchorr/operations-automation-toolkit) — small utilities for commerce and service operations.
+
+</details>
+
+<details>
+<summary><b>Web experiences & SST research · 3 projects</b></summary>
+
+- [Innovativa SST Website](https://github.com/EduSchorr/innovativa-sst-website) — B2B plans and lead-generation workflow.
+- [Peritus SST Landing Pages](https://github.com/EduSchorr/peritus-sst-landing-pages) — three service pages and interactive calculators.
+- [SST Report Automation Lab](https://github.com/EduSchorr/sst-report-automation-lab) — document-corpus analysis, classification and anonymization research.
+
+</details>
+
+---
+
+## ▦ Portfolio at a glance
+
+| **17** | **06** | **03** |
+| :---: | :---: | :---: |
+| Public project repositories | Featured projects | Main specialties |
+| Systems & automation | Diverse technical challenges | Full-stack · Automation · Applied AI |
+
+> The public projects prioritize **architecture, problem-solving and practical workflows**. Some are runnable demos; others are representative portfolio editions with private integrations and production data intentionally excluded.
+
+---
+
+## ↗ Currently exploring
+
+- Better developer experiences for local AI tooling.
+- Smarter workflows connecting existing business systems.
+- Reliable, human-centered software for operational teams.
+- Turning one-off automation into maintainable products.
+
+---
+
+<a id="lets-connect"></a>
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+## Let's build something useful.
 
-### Backend & Automation
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
-![REST API](https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge&logo=fastapi&logoColor=009688)
+**Have an operational process worth simplifying?**
 
-### Data & Tools
-![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+I'm interested in automation, internal platforms, developer tools and thoughtful product development.
 
-</div>
+[**View repositories**](https://github.com/EduSchorr?tab=repositories) &nbsp;·&nbsp; [**Leia em português**](README.pt-BR.md)
 
----
-
-## 📈 Portfolio snapshot
-
-| Public projects | Core stack | Main areas |
-| --- | --- | --- |
-| **17+ public projects** | **Python · TypeScript · JavaScript · React · SQLite** | **Automation · AI · Internal Systems · SST · PWAs · Analytics** |
-| Local-first and web products | APIs, desktop workflows and browser interfaces | Sanitized public editions with CI where applicable |
-
----
-
-## 🔭 Current focus
-
-- Modernizing operational systems with modern frontend architecture
-- Building smarter automation for repetitive business workflows
-- Improving UX in tools used every day by real teams
-- Exploring practical applications of AI inside software products
-- Turning internal tools into polished, maintainable products
-
----
-
-<div align="center">
-
-## Let’s build something useful.
-
-Interested in **automation, internal tools, AI-assisted workflows or product development**?
-
-Explore the repositories above or reach out through the social links on my GitHub profile.
-
-<br/>
-
-### Build useful things. Make them better. Ship again.
-
-**Brazil 🇧🇷**
+<sub>Brazil 🇧🇷 · Build useful things. Make them better. Ship again.</sub>
 
 </div>
