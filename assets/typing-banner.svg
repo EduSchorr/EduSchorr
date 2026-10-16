@@ -1,24 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="64" viewBox="0 0 820 64" role="img" aria-labelledby="title desc">
-  <title id="title">Eduardo Lima developer message</title>
-  <desc id="desc">Animated messages about building software, automation, products and practical AI.</desc>
-  <rect width="820" height="64" rx="16" fill="transparent"/>
-  <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-     font-size="21" font-weight="600" text-anchor="middle" fill="#8B5CF6">
-    <text x="410" y="39" opacity="0">
-      Building software that solves real problems.
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="0s" repeatCount="indefinite"/>
-    </text>
-    <text x="410" y="39" opacity="0">
-      Automating what shouldn't be manual.
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="3s" repeatCount="indefinite"/>
-    </text>
-    <text x="410" y="39" opacity="0">
-      Turning operations into products.
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="6s" repeatCount="indefinite"/>
-    </text>
-    <text x="410" y="39" opacity="0">
-      AI as a tool. Product thinking as the foundation.
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="9s" repeatCount="indefinite"/>
-    </text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="64" viewBox="0 0 820 64" role="img" aria-labelledby="title description">
+<title id="title">Eduardo Lima — animated developer message</title>
+<desc id="description">Alternating messages about software, automation, product thinking and applied AI. The first message remains visible without animation support.</desc>
+<defs><linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6FEAC7"/><stop offset="1" stop-color="#B1A8FF"/></linearGradient></defs>
+<g font-family="JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21" font-weight="600" text-anchor="middle" fill="url(#ink)">
+<text x="410" y="40" opacity="1">Building software that solves real problems.
+<animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;.22;.25;.98;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="410" y="40" opacity="0">Automating what shouldn't be manual.
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="12s" begin="3s" repeatCount="indefinite"/>
+</text>
+<text x="410" y="40" opacity="0">Turning operations into products.
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="12s" begin="6s" repeatCount="indefinite"/>
+</text>
+<text x="410" y="40" opacity="0">AI as a tool. Product thinking as the foundation.
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="12s" begin="9s" repeatCount="indefinite"/>
+</text>
+</g>
 </svg>
