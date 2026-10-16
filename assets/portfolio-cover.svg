@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+<title id="t">Eduardo Lima — Building useful software</title>
+<desc id="d">Dark editorial banner, teal and violet accents, and a visual workflow from problems to working software.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1120"/><stop offset=".55" stop-color="#111B2E"/><stop offset="1" stop-color="#17243A"/></linearGradient>
+  <radialGradient id="g1"><stop stop-color="#4C6FFF" stop-opacity=".28"/><stop offset="1" stop-color="#4C6FFF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2"><stop stop-color="#5DE6BA" stop-opacity=".23"/><stop offset="1" stop-color="#5DE6BA" stop-opacity="0"/></radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#70F0CB"/><stop offset="1" stop-color="#A7B4FF"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9CC5CF" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+<ellipse cx="1090" cy="40" rx="340" ry="300" fill="url(#g1)"/>
+<ellipse cx="700" cy="330" rx="340" ry="260" fill="url(#g2)"/>
+<path d="M45 28H1155" stroke="#E3EAF7" stroke-opacity=".1"/>
+<circle cx="57" cy="30" r="3" fill="#70F0CB"/><circle cx="71" cy="30" r="3" fill="#A9B7FF"/><circle cx="85" cy="30" r="3" fill="#53657E"/>
+<text x="60" y="81" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#78E7C9">EDUARDO LIMA  /  PORTFOLIO</text>
+<text x="58" y="146" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800" letter-spacing="-2" fill="#F5F7FC">Building useful</text>
+<text x="58" y="203" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800" letter-spacing="-2" fill="url(#accent)">software.</text>
+<text x="60" y="252" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#B6C6D9">Systems  /  Automation  /  AI  /  Product engineering</text>
+<rect x="60" y="276" width="180" height="3" rx="1.5" fill="url(#accent)"/>
+<g transform="translate(725 66)">
+  <path d="M95 63L195 40L281 99L203 169L95 150Z" fill="none" stroke="#8EC5DB" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M95 63L203 169M195 40L203 169M281 99L95 150" stroke="#8EC5DB" stroke-opacity=".18"/>
+  <circle cx="95" cy="63" r="9" fill="#152539" stroke="#70F0CB" stroke-width="3"/>
+  <circle cx="195" cy="40" r="9" fill="#152539" stroke="#A8B5FF" stroke-width="3"/>
+  <circle cx="281" cy="99" r="9" fill="#152539" stroke="#70F0CB" stroke-width="3"/>
+  <circle cx="203" cy="169" r="9" fill="#152539" stroke="#A8B5FF" stroke-width="3"/>
+  <circle cx="95" cy="150" r="9" fill="#152539" stroke="#70F0CB" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="5" y="9" width="174" height="38" rx="10" fill="#192C42" stroke="#477D8F" stroke-opacity=".6"/>
+    <circle cx="24" cy="28" r="5" fill="#70F0CB"/><text x="37" y="33" font-size="13" font-weight="700" fill="#DCE6F4">01 / PROBLEM</text>
+    <rect x="226" y="10" width="180" height="38" rx="10" fill="#202B48" stroke="#707CB5" stroke-opacity=".6"/>
+    <circle cx="245" cy="28" r="5" fill="#A8B5FF"/><text x="260" y="33" font-size="13" font-weight="700" fill="#DCE6F4">02 / SYSTEM</text>
+    <rect x="161" y="193" width="189" height="38" rx="10" fill="#143B3E" stroke="#62CFAF" stroke-opacity=".6"/>
+    <circle cx="182" cy="212" r="5" fill="#70F0CB"/><text x="195" y="217" font-size="13" font-weight="700" fill="#DCE6F4">03 / PRODUCT</text>
+  </g>
+</g>
+</svg>
