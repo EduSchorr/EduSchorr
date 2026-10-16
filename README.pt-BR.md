@@ -20,8 +20,7 @@
 
 ---
 
-<a id="projetos-em-destaque"></a>
-## ✦ Projetos em destaque
+## Projetos em destaque
 
 Seis projetos, seis desafios diferentes — de ferramentas locais com IA a aplicações de campo.
 
@@ -67,8 +66,7 @@ Seis projetos, seis desafios diferentes — de ferramentas locais com IA a aplic
 
 ---
 
-<a id="explorar-mais-projetos"></a>
-## ▤ Explorar mais projetos
+## Explorar mais projetos
 
 Além dos destaques, publiquei ferramentas para atendimento, finanças, sites comerciais e pesquisa em SST.
 
@@ -123,10 +121,11 @@ Além dos destaques, publiquei ferramentas para atendimento, finanças, sites co
 
 ---
 
-<a id="vamos-conversar"></a>
+## Vamos conversar
+
 <div align="center">
 
-<h2>Vamos construir algo útil.</h2>
+<h3>Vamos construir algo útil.</h3>
 
 <p><strong>Tem um processo operacional que poderia ser mais simples?</strong></p>
 
