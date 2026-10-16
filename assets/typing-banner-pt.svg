@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="64" viewBox="0 0 820 64" role="img" aria-labelledby="title description">
+<title id="title">Mensagens sobre desenvolvimento de software de Eduardo Lima</title>
+<desc id="description">Mensagens que alternam entre software, automação, produtos e IA. A primeira frase fica visível sem animação.</desc>
+<defs><linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6FEAC7"/><stop offset="1" stop-color="#B1A8FF"/></linearGradient></defs>
+<g font-family="JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21" font-weight="600" text-anchor="middle" fill="url(#ink)">
+<text x="410" y="40" opacity="1">Software que resolve problemas reais.
+<animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;.22;.25;.98;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+</text>
+<text x="410" y="40" opacity="0">Automatizando o que não deveria ser manual.
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="12s" begin="3s" repeatCount="indefinite"/>
+</text>
+<text x="410" y="40" opacity="0">Transformando operações em produtos.
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="12s" begin="6s" repeatCount="indefinite"/>
+</text>
+<text x="410" y="40" opacity="0">IA como ferramenta. Produto como objetivo.
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.22;.25;1" dur="12s" begin="9s" repeatCount="indefinite"/>
+</text>
+</g>
+</svg>
