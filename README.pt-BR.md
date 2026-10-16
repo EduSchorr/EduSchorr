@@ -2,7 +2,7 @@
 
 [English](README.md) &nbsp;·&nbsp; **Português (Brasil)**
 
-<img src="assets/portfolio-cover.svg" alt="Eduardo Lima — Desenvolvimento de software, sistemas, automação e IA." width="100%"/>
+<img src="assets/portfolio-cover-pt.svg" alt="Eduardo Lima — Desenvolvimento de software, sistemas, automação e IA." width="100%"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 Projeto e desenvolvo aplicações, automações e ferramentas operacionais que tornam o trabalho diário mais claro, rápido e confiável.
 
-<img src="assets/typing-banner.svg" alt="Mensagens animadas sobre desenvolvimento de software" width="820"/>
+<img src="assets/typing-banner-pt.svg" alt="Mensagens animadas sobre desenvolvimento de software" width="820"/>
 
 [**Conhecer os projetos ↓**](#projetos-em-destaque) &nbsp;·&nbsp; [**Mais projetos ↓**](#explorar-mais-projetos) &nbsp;·&nbsp; [**Contato ↓**](#vamos-conversar)
 
