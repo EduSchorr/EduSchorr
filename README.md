@@ -14,14 +14,13 @@
 
 <img src="assets/typing-banner.svg" alt="Animated messages about turning problems into useful products" width="820"/>
 
-<p><a href="#featured-work"><strong>Explore my work ↓</strong></a> &nbsp;·&nbsp; <a href="#explore-more"><strong>More projects ↓</strong></a> &nbsp;·&nbsp; <a href="#lets-connect"><strong>Contact ↓</strong></a></p>
+<p><a href="#featured-work"><strong>Explore my work ↓</strong></a> &nbsp;·&nbsp; <a href="#explore-more-projects"><strong>More projects ↓</strong></a> &nbsp;·&nbsp; <a href="#lets-connect"><strong>Contact ↓</strong></a></p>
 
 </div>
 
 ---
 
-<a id="featured-work"></a>
-## ✦ Featured work
+## Featured work
 
 Six projects, six different engineering challenges — from local AI developer tools to field applications.
 
@@ -67,8 +66,7 @@ Six projects, six different engineering challenges — from local AI developer t
 
 ---
 
-<a id="explore-more"></a>
-## ▤ Explore more projects
+## Explore more projects
 
 Beyond the featured work, I've published focused tools across operations, finance, commercial websites and SST research.
 
@@ -123,10 +121,11 @@ Beyond the featured work, I've published focused tools across operations, financ
 
 ---
 
-<a id="lets-connect"></a>
+## Let's connect
+
 <div align="center">
 
-<h2>Let's build something useful.</h2>
+<h3>Let's build something useful.</h3>
 
 <p><strong>Have an operational process worth simplifying?</strong></p>
 
