@@ -1,20 +1,20 @@
 <div align="center">
 
-**English** &nbsp;·&nbsp; [Português (Brasil)](README.pt-BR.md)
+<p><strong>English</strong> &nbsp;·&nbsp; <a href="README.pt-BR.md">Português (Brasil)</a></p>
 
 <img src="assets/portfolio-cover.svg" alt="Eduardo Lima — Building useful software. Systems, automation, AI and product engineering." width="100%"/>
 
 <br/>
 
-### Full-Stack Developer &nbsp;·&nbsp; Automation &nbsp;·&nbsp; AI-Assisted Products
+<h3>Full-Stack Developer &nbsp;·&nbsp; Automation &nbsp;·&nbsp; AI-Assisted Products</h3>
 
-**I turn messy real-world processes into software that feels simple.**
+<p><strong>I turn messy real-world processes into software that feels simple.</strong></p>
 
-I design and build applications, automations and operational tools that make everyday work clearer, faster and more reliable.
+<p>I design and build applications, automations and operational tools<br/>that make everyday work clearer, faster and more reliable.</p>
 
 <img src="assets/typing-banner.svg" alt="Animated messages about turning problems into useful products" width="820"/>
 
-[**Explore my work ↓**](#featured-work) &nbsp;·&nbsp; [**More projects ↓**](#explore-more) &nbsp;·&nbsp; [**Contact ↓**](#lets-connect)
+<p><a href="#featured-work"><strong>Explore my work ↓</strong></a> &nbsp;·&nbsp; <a href="#explore-more"><strong>More projects ↓</strong></a> &nbsp;·&nbsp; <a href="#lets-connect"><strong>Contact ↓</strong></a></p>
 
 </div>
 
@@ -126,14 +126,14 @@ Beyond the featured work, I've published focused tools across operations, financ
 <a id="lets-connect"></a>
 <div align="center">
 
-## Let's build something useful.
+<h2>Let's build something useful.</h2>
 
-**Have an operational process worth simplifying?**
+<p><strong>Have an operational process worth simplifying?</strong></p>
 
-I'm interested in automation, internal platforms, developer tools and thoughtful product development.
+<p>I'm interested in automation, internal platforms, developer tools and thoughtful product development.</p>
 
-[**View repositories**](https://github.com/EduSchorr?tab=repositories) &nbsp;·&nbsp; [**Leia em português**](README.pt-BR.md)
+<p><a href="https://github.com/EduSchorr?tab=repositories"><strong>View repositories</strong></a> &nbsp;·&nbsp; <a href="README.pt-BR.md"><strong>Leia em português</strong></a></p>
 
-<sub>Brazil 🇧🇷 · Build useful things. Make them better. Ship again.</sub>
+<p><sub>Brazil 🇧🇷 · Build useful things. Make them better. Ship again.</sub></p>
 
 </div>
