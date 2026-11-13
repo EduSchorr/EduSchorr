@@ -30,7 +30,7 @@ Six projects, six different engineering challenges — from local AI developer t
 | [![Peritus SST — illustrative project cover](assets/projects/peritus.svg)](https://github.com/EduSchorr/peritus-sst)<br>**[Peritus SST — Document Intelligence](https://github.com/EduSchorr/peritus-sst)**<br>OCR and optional AI assistance for organizing technical evidence and generating structured reports under professional review.<br><sub>Python · OCR · DOCX · AI-Assisted</sub> | [![Automation Hub — illustrative project cover](assets/projects/hub.svg)](https://github.com/EduSchorr/sac-automation-hub)<br>**[SAC Automation Hub — Orchestration](https://github.com/EduSchorr/sac-automation-hub)**<br>Local control center for launching, scheduling and monitoring operational automations.<br><sub>Python · Processes · Scheduling</sub> |
 | [![Workforce Scheduler — illustrative project cover](assets/projects/scheduler.svg)](https://github.com/EduSchorr/sistema-escalas-sac)<br>**[Workforce Scheduler — Rules Engine](https://github.com/EduSchorr/sistema-escalas-sac)**<br>5×2 shift scheduling with weekend coverage, rotation constraints, permissions and audit records.<br><sub>Python · SQLite · Scheduling · CI</sub> | [![Innovativa Inspections — illustrative project cover](assets/projects/inspections.svg)](https://github.com/EduSchorr/innovativa-inspecoes)<br>**[Innovativa Inspections — Field PWA](https://github.com/EduSchorr/innovativa-inspecoes)**<br>Responsive checklist and inspection prototype with local persistence and offline-friendly flows.<br><sub>JavaScript · PWA · Field UX</sub> |
 
-<sub>The artwork above is illustrative. Repositories contain public, sanitized portfolio editions rather than production customer data.</sub>
+<sub>The artwork above is illustrative. The current project repositories contain documentation-only presentations. Previously published code may remain in Git history.</sub>
 
 ---
 
@@ -67,6 +67,8 @@ Six projects, six different engineering challenges — from local AI developer t
 ---
 
 ## Explore more projects
+
+**[Browse nine documented projects](projects/README.md)** — individual English and Portuguese presentations; no implementation files are included in this catalog.
 
 Beyond the featured work, I've published focused tools across operations, finance, commercial websites and SST research.
 
@@ -108,7 +110,7 @@ Beyond the featured work, I've published focused tools across operations, financ
 | Public project repositories | Featured projects | Main specialties |
 | Systems & automation | Diverse technical challenges | Full-stack · Automation · Applied AI |
 
-> The public projects prioritize **architecture, problem-solving and practical workflows**. Some are runnable demos; others are representative portfolio editions with private integrations and production data intentionally excluded.
+> The public projects prioritize **architecture, problem-solving and practical workflows**. The current default-branch versions provide documentation only; implementation files and runnable demos are no longer included. Historical commits may still contain earlier publications.
 
 ---
 

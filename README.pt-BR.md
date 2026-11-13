@@ -30,7 +30,7 @@ Seis projetos, seis desafios diferentes — de ferramentas locais com IA a aplic
 | [![Peritus SST — arte ilustrativa](assets/projects/peritus.svg)](https://github.com/EduSchorr/peritus-sst)<br>**[Peritus SST — Inteligência Documental](https://github.com/EduSchorr/peritus-sst)**<br>OCR e IA opcional para organizar evidências e produzir laudos estruturados sob revisão profissional.<br><sub>Python · OCR · DOCX · IA assistiva</sub> | [![Automation Hub — arte ilustrativa](assets/projects/hub.svg)](https://github.com/EduSchorr/sac-automation-hub)<br>**[SAC Automation Hub — Orquestração](https://github.com/EduSchorr/sac-automation-hub)**<br>Central local para iniciar, agendar e monitorar diferentes automações operacionais.<br><sub>Python · Processos · Agendamentos</sub> |
 | [![Sistema de Escalas — arte ilustrativa](assets/projects/scheduler.svg)](https://github.com/EduSchorr/sistema-escalas-sac)<br>**[Sistema de Escalas — Motor de Regras](https://github.com/EduSchorr/sistema-escalas-sac)**<br>Escalas 5×2, cobertura de finais de semana, rodízios, permissões e auditoria.<br><sub>Python · SQLite · Escalas · CI</sub> | [![Innovativa Inspeções — arte ilustrativa](assets/projects/inspections.svg)](https://github.com/EduSchorr/innovativa-inspecoes)<br>**[Innovativa Inspeções — PWA de Campo](https://github.com/EduSchorr/innovativa-inspecoes)**<br>Protótipo responsivo para inspeções e checklists, com persistência local e fluxo amigável para uso offline.<br><sub>JavaScript · PWA · UX de campo</sub> |
 
-<sub>As artes acima são ilustrativas. Os repositórios são edições públicas sanitizadas, sem dados reais de produção.</sub>
+<sub>As artes acima são ilustrativas. As versões atuais dos repositórios contêm apresentações documentais. Código publicado anteriormente pode permanecer no histórico do Git.</sub>
 
 ---
 
@@ -67,6 +67,8 @@ Seis projetos, seis desafios diferentes — de ferramentas locais com IA a aplic
 ---
 
 ## Explorar mais projetos
+
+**[Conheça nove projetos documentados](projects/README.pt-BR.md)** — apresentações individuais em português e inglês; este catálogo não inclui arquivos de implementação.
 
 Além dos destaques, publiquei ferramentas para atendimento, finanças, sites comerciais e pesquisa em SST.
 
@@ -108,7 +110,7 @@ Além dos destaques, publiquei ferramentas para atendimento, finanças, sites co
 | Repositórios públicos de projetos | Projetos em destaque | Especialidades principais |
 | Sistemas e automações | Desafios técnicos distintos | Full-stack · Automação · IA aplicada |
 
-> Os projetos públicos destacam **arquitetura, resolução de problemas e processos reais**. Alguns são demonstrações executáveis; outros são edições representativas sem integrações privadas e dados de produção.
+> Os projetos públicos destacam **arquitetura, resolução de problemas e processos reais**. As versões atuais das branches principais contêm somente documentação; arquivos de implementação e demonstrações executáveis foram retirados. Commits antigos podem conter publicações anteriores.
 
 ---
 
