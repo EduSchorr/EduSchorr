@@ -16,6 +16,6 @@ Nine project presentations across automation, finance, structured surveys and co
 | [Innovativa SST Website](innovativa-sst-website/README.md) | HTML · CSS · JavaScript |
 | [Peritus SST Landing Pages](peritus-sst-landing-pages/README.md) | HTML · CSS · JavaScript |
 
-This catalog contains documentation only. The current default-branch versions of the public project repositories contain documentation only. Historical commits may still contain previously published code; this catalog does not remove that history.
+This catalog contains documentation only. Implementation repositories and their histories are now private. Public presentations remain available in the [case studies](../case-studies/README.md).
 
 [Portfolio Edition](PORTFOLIO_EDITION.md) · [Back to profile](../README.md)

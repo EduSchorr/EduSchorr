@@ -26,11 +26,11 @@ Seis projetos, seis desafios diferentes — de ferramentas locais com IA a aplic
 
 | | |
 | :--- | :--- |
-| [![Nexo — arte ilustrativa](assets/projects/nexo.svg)](https://github.com/EduSchorr/nexo-codex)<br>**[Nexo — Interface para Codex](https://github.com/EduSchorr/nexo-codex)**<br>Interface local com histórico de conversas, controles de modelos, aprovações e anexos.<br><sub>Python · JavaScript · Ferramentas de desenvolvimento</sub> | [![SJ One 360 — arte ilustrativa](assets/projects/sj-one.svg)](https://github.com/EduSchorr/sj-one-360)<br>**[SJ One 360 — Plataforma Operacional](https://github.com/EduSchorr/sj-one-360)**<br>Atendimento, fluxos operacionais, indicadores e automação reunidos num sistema full-stack.<br><sub>React · TypeScript · Python · SQLite</sub> |
-| [![Peritus SST — arte ilustrativa](assets/projects/peritus.svg)](https://github.com/EduSchorr/peritus-sst)<br>**[Peritus SST — Inteligência Documental](https://github.com/EduSchorr/peritus-sst)**<br>OCR e IA opcional para organizar evidências e produzir laudos estruturados sob revisão profissional.<br><sub>Python · OCR · DOCX · IA assistiva</sub> | [![Automation Hub — arte ilustrativa](assets/projects/hub.svg)](https://github.com/EduSchorr/sac-automation-hub)<br>**[SAC Automation Hub — Orquestração](https://github.com/EduSchorr/sac-automation-hub)**<br>Central local para iniciar, agendar e monitorar diferentes automações operacionais.<br><sub>Python · Processos · Agendamentos</sub> |
-| [![Sistema de Escalas — arte ilustrativa](assets/projects/scheduler.svg)](https://github.com/EduSchorr/sistema-escalas-sac)<br>**[Sistema de Escalas — Motor de Regras](https://github.com/EduSchorr/sistema-escalas-sac)**<br>Escalas 5×2, cobertura de finais de semana, rodízios, permissões e auditoria.<br><sub>Python · SQLite · Escalas · CI</sub> | [![Innovativa Inspeções — arte ilustrativa](assets/projects/inspections.svg)](https://github.com/EduSchorr/innovativa-inspecoes)<br>**[Innovativa Inspeções — PWA de Campo](https://github.com/EduSchorr/innovativa-inspecoes)**<br>Protótipo responsivo para inspeções e checklists, com persistência local e fluxo amigável para uso offline.<br><sub>JavaScript · PWA · UX de campo</sub> |
+| [![Nexo — arte ilustrativa](assets/projects/nexo.svg)](case-studies/nexo-codex.md)<br>**[Nexo — Interface para Codex](case-studies/nexo-codex.md)**<br>Interface local com histórico de conversas, controles de modelos, aprovações e anexos.<br><sub>Python · JavaScript · Ferramentas de desenvolvimento</sub> | [![SJ One 360 — arte ilustrativa](assets/projects/sj-one.svg)](case-studies/sj-one-360.md)<br>**[SJ One 360 — Plataforma Operacional](case-studies/sj-one-360.md)**<br>Atendimento, fluxos operacionais, indicadores e automação reunidos num sistema full-stack.<br><sub>React · TypeScript · Python · SQLite</sub> |
+| [![Peritus SST — arte ilustrativa](assets/projects/peritus.svg)](case-studies/peritus-sst.md)<br>**[Peritus SST — Inteligência Documental](case-studies/peritus-sst.md)**<br>OCR e IA opcional para organizar evidências e produzir laudos estruturados sob revisão profissional.<br><sub>Python · OCR · DOCX · IA assistiva</sub> | [![Automation Hub — arte ilustrativa](assets/projects/hub.svg)](case-studies/sac-automation-hub.md)<br>**[SAC Automation Hub — Orquestração](case-studies/sac-automation-hub.md)**<br>Central local para iniciar, agendar e monitorar diferentes automações operacionais.<br><sub>Python · Processos · Agendamentos</sub> |
+| [![Sistema de Escalas — arte ilustrativa](assets/projects/scheduler.svg)](case-studies/sistema-escalas-sac.md)<br>**[Sistema de Escalas — Motor de Regras](case-studies/sistema-escalas-sac.md)**<br>Escalas 5×2, cobertura de finais de semana, rodízios, permissões e auditoria.<br><sub>Python · SQLite · Escalas · CI</sub> | [![Innovativa Inspeções — arte ilustrativa](assets/projects/inspections.svg)](case-studies/innovativa-inspecoes.md)<br>**[Innovativa Inspeções — PWA de Campo](case-studies/innovativa-inspecoes.md)**<br>Protótipo responsivo para inspeções e checklists, com persistência local e fluxo amigável para uso offline.<br><sub>JavaScript · PWA · UX de campo</sub> |
 
-<sub>As artes acima são ilustrativas. As versões atuais dos repositórios contêm apresentações documentais. Código publicado anteriormente pode permanecer no histórico do Git.</sub>
+<sub>As artes acima são ilustrativas. As páginas vinculadas contêm apresentações documentais. Os repositórios de implementação e seus históricos são privados.</sub>
 
 ---
 
@@ -75,29 +75,29 @@ Além dos destaques, publiquei ferramentas para atendimento, finanças, sites co
 <details>
 <summary><b>Operações e atendimento · 4 projetos</b></summary>
 
-- [Central de Atendimento Digital](https://github.com/EduSchorr/digital-service-center) — tickets e fluxos operacionais.
-- [Controle de Pendências](https://github.com/EduSchorr/pending-cases-tracker) — tratamento de casos e filas de acompanhamento.
-- [Central de Verificação de Devoluções](https://github.com/EduSchorr/returns-verification-center) — monitoramento e classificação de respostas.
-- [Ouvidoria + WhatsApp](https://github.com/EduSchorr/ombudsman-whatsapp-automation) — organização e preparação de contatos.
+- [Central de Atendimento Digital](case-studies/digital-service-center.md) — tickets e fluxos operacionais.
+- [Controle de Pendências](case-studies/pending-cases-tracker.md) — tratamento de casos e filas de acompanhamento.
+- [Central de Verificação de Devoluções](case-studies/returns-verification-center.md) — monitoramento e classificação de respostas.
+- [Ouvidoria + WhatsApp](case-studies/ombudsman-whatsapp-automation.md) — organização e preparação de contatos.
 
 </details>
 
 <details>
 <summary><b>Finanças, comércio e comunicação · 4 projetos</b></summary>
 
-- [Central de Automação Financeira](https://github.com/EduSchorr/financial-automation-center) — conciliação e rotinas financeiras.
-- [Suíte de Comunicação com Lojas](https://github.com/EduSchorr/store-communications-suite) — comunicações segmentadas e destinatários.
-- [Automação de Termos de Retirada](https://github.com/EduSchorr/pickup-term-automation) — geração de termos e rastreabilidade de envios.
-- [Toolkit de Automações Operacionais](https://github.com/EduSchorr/operations-automation-toolkit) — utilitários de e-commerce e atendimento.
+- [Central de Automação Financeira](case-studies/financial-automation-center.md) — conciliação e rotinas financeiras.
+- [Suíte de Comunicação com Lojas](case-studies/store-communications-suite.md) — comunicações segmentadas e destinatários.
+- [Automação de Termos de Retirada](case-studies/pickup-term-automation.md) — geração de termos e rastreabilidade de envios.
+- [Toolkit de Automações Operacionais](case-studies/operations-automation-toolkit.md) — utilitários de e-commerce e atendimento.
 
 </details>
 
 <details>
 <summary><b>Experiências web e pesquisa SST · 3 projetos</b></summary>
 
-- [Innovativa SST Website](https://github.com/EduSchorr/innovativa-sst-website) — planos empresariais e geração de leads.
-- [Landing Pages Peritus SST](https://github.com/EduSchorr/peritus-sst-landing-pages) — três páginas de serviços com calculadoras.
-- [Laboratório de Automação de Laudos SST](https://github.com/EduSchorr/sst-report-automation-lab) — análise de acervo, classificação e anonimização.
+- [Innovativa SST Website](case-studies/innovativa-sst-website.md) — planos empresariais e geração de leads.
+- [Landing Pages Peritus SST](case-studies/peritus-sst-landing-pages.md) — três páginas de serviços com calculadoras.
+- [Laboratório de Automação de Laudos SST](case-studies/sst-report-automation-lab.md) — análise de acervo, classificação e anonimização.
 
 </details>
 
@@ -107,10 +107,10 @@ Além dos destaques, publiquei ferramentas para atendimento, finanças, sites co
 
 | **17** | **06** | **03** |
 | :---: | :---: | :---: |
-| Repositórios públicos de projetos | Projetos em destaque | Especialidades principais |
+| Projetos documentados | Projetos em destaque | Especialidades principais |
 | Sistemas e automações | Desafios técnicos distintos | Full-stack · Automação · IA aplicada |
 
-> Os projetos públicos destacam **arquitetura, resolução de problemas e processos reais**. As versões atuais das branches principais contêm somente documentação; arquivos de implementação e demonstrações executáveis foram retirados. Commits antigos podem conter publicações anteriores.
+> Os projetos públicos destacam **arquitetura, resolução de problemas e processos reais**. As apresentações vinculadas contêm somente documentação. Os repositórios de implementação e seus históricos são privados.
 
 ---
 

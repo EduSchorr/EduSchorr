@@ -26,11 +26,11 @@ Six projects, six different engineering challenges — from local AI developer t
 
 | | |
 | :--- | :--- |
-| [![Nexo — illustrative project cover](assets/projects/nexo.svg)](https://github.com/EduSchorr/nexo-codex)<br>**[Nexo — Codex Workspace](https://github.com/EduSchorr/nexo-codex)**<br>Local-first interface for Codex with conversation history, model controls, approvals and file attachments.<br><sub>Python · JavaScript · Developer Tools</sub> | [![SJ One 360 — illustrative project cover](assets/projects/sj-one.svg)](https://github.com/EduSchorr/sj-one-360)<br>**[SJ One 360 — Operations Platform](https://github.com/EduSchorr/sj-one-360)**<br>Customer-service workflows, analytics and automation brought together in a full-stack workspace.<br><sub>React · TypeScript · Python · SQLite</sub> |
-| [![Peritus SST — illustrative project cover](assets/projects/peritus.svg)](https://github.com/EduSchorr/peritus-sst)<br>**[Peritus SST — Document Intelligence](https://github.com/EduSchorr/peritus-sst)**<br>OCR and optional AI assistance for organizing technical evidence and generating structured reports under professional review.<br><sub>Python · OCR · DOCX · AI-Assisted</sub> | [![Automation Hub — illustrative project cover](assets/projects/hub.svg)](https://github.com/EduSchorr/sac-automation-hub)<br>**[SAC Automation Hub — Orchestration](https://github.com/EduSchorr/sac-automation-hub)**<br>Local control center for launching, scheduling and monitoring operational automations.<br><sub>Python · Processes · Scheduling</sub> |
-| [![Workforce Scheduler — illustrative project cover](assets/projects/scheduler.svg)](https://github.com/EduSchorr/sistema-escalas-sac)<br>**[Workforce Scheduler — Rules Engine](https://github.com/EduSchorr/sistema-escalas-sac)**<br>5×2 shift scheduling with weekend coverage, rotation constraints, permissions and audit records.<br><sub>Python · SQLite · Scheduling · CI</sub> | [![Innovativa Inspections — illustrative project cover](assets/projects/inspections.svg)](https://github.com/EduSchorr/innovativa-inspecoes)<br>**[Innovativa Inspections — Field PWA](https://github.com/EduSchorr/innovativa-inspecoes)**<br>Responsive checklist and inspection prototype with local persistence and offline-friendly flows.<br><sub>JavaScript · PWA · Field UX</sub> |
+| [![Nexo — illustrative project cover](assets/projects/nexo.svg)](case-studies/nexo-codex.md)<br>**[Nexo — Codex Workspace](case-studies/nexo-codex.md)**<br>Local-first interface for Codex with conversation history, model controls, approvals and file attachments.<br><sub>Python · JavaScript · Developer Tools</sub> | [![SJ One 360 — illustrative project cover](assets/projects/sj-one.svg)](case-studies/sj-one-360.md)<br>**[SJ One 360 — Operations Platform](case-studies/sj-one-360.md)**<br>Customer-service workflows, analytics and automation brought together in a full-stack workspace.<br><sub>React · TypeScript · Python · SQLite</sub> |
+| [![Peritus SST — illustrative project cover](assets/projects/peritus.svg)](case-studies/peritus-sst.md)<br>**[Peritus SST — Document Intelligence](case-studies/peritus-sst.md)**<br>OCR and optional AI assistance for organizing technical evidence and generating structured reports under professional review.<br><sub>Python · OCR · DOCX · AI-Assisted</sub> | [![Automation Hub — illustrative project cover](assets/projects/hub.svg)](case-studies/sac-automation-hub.md)<br>**[SAC Automation Hub — Orchestration](case-studies/sac-automation-hub.md)**<br>Local control center for launching, scheduling and monitoring operational automations.<br><sub>Python · Processes · Scheduling</sub> |
+| [![Workforce Scheduler — illustrative project cover](assets/projects/scheduler.svg)](case-studies/sistema-escalas-sac.md)<br>**[Workforce Scheduler — Rules Engine](case-studies/sistema-escalas-sac.md)**<br>5×2 shift scheduling with weekend coverage, rotation constraints, permissions and audit records.<br><sub>Python · SQLite · Scheduling · CI</sub> | [![Innovativa Inspections — illustrative project cover](assets/projects/inspections.svg)](case-studies/innovativa-inspecoes.md)<br>**[Innovativa Inspections — Field PWA](case-studies/innovativa-inspecoes.md)**<br>Responsive checklist and inspection prototype with local persistence and offline-friendly flows.<br><sub>JavaScript · PWA · Field UX</sub> |
 
-<sub>The artwork above is illustrative. The current project repositories contain documentation-only presentations. Previously published code may remain in Git history.</sub>
+<sub>The artwork above is illustrative. The linked pages contain documentation-only presentations. Implementation repositories and their histories are private.</sub>
 
 ---
 
@@ -75,29 +75,29 @@ Beyond the featured work, I've published focused tools across operations, financ
 <details>
 <summary><b>Operations & customer service · 4 projects</b></summary>
 
-- [Digital Service Center](https://github.com/EduSchorr/digital-service-center) — service requests, tickets and operational workflows.
-- [Pending Cases Tracker](https://github.com/EduSchorr/pending-cases-tracker) — case processing and follow-up queues.
-- [Returns Verification Center](https://github.com/EduSchorr/returns-verification-center) — return monitoring and reply classification.
-- [Ombudsman WhatsApp Automation](https://github.com/EduSchorr/ombudsman-whatsapp-automation) — structured intake and follow-up preparation.
+- [Digital Service Center](case-studies/digital-service-center.md) — service requests, tickets and operational workflows.
+- [Pending Cases Tracker](case-studies/pending-cases-tracker.md) — case processing and follow-up queues.
+- [Returns Verification Center](case-studies/returns-verification-center.md) — return monitoring and reply classification.
+- [Ombudsman WhatsApp Automation](case-studies/ombudsman-whatsapp-automation.md) — structured intake and follow-up preparation.
 
 </details>
 
 <details>
 <summary><b>Finance, commerce & communication · 4 projects</b></summary>
 
-- [Financial Automation Center](https://github.com/EduSchorr/financial-automation-center) — reconciliation and finance workflows.
-- [Store Communications Suite](https://github.com/EduSchorr/store-communications-suite) — targeted store communication and recipient handling.
-- [Pickup Term Automation](https://github.com/EduSchorr/pickup-term-automation) — structured document generation and dispatch tracking.
-- [Operations Automation Toolkit](https://github.com/EduSchorr/operations-automation-toolkit) — small utilities for commerce and service operations.
+- [Financial Automation Center](case-studies/financial-automation-center.md) — reconciliation and finance workflows.
+- [Store Communications Suite](case-studies/store-communications-suite.md) — targeted store communication and recipient handling.
+- [Pickup Term Automation](case-studies/pickup-term-automation.md) — structured document generation and dispatch tracking.
+- [Operations Automation Toolkit](case-studies/operations-automation-toolkit.md) — small utilities for commerce and service operations.
 
 </details>
 
 <details>
 <summary><b>Web experiences & SST research · 3 projects</b></summary>
 
-- [Innovativa SST Website](https://github.com/EduSchorr/innovativa-sst-website) — B2B plans and lead-generation workflow.
-- [Peritus SST Landing Pages](https://github.com/EduSchorr/peritus-sst-landing-pages) — three service pages and interactive calculators.
-- [SST Report Automation Lab](https://github.com/EduSchorr/sst-report-automation-lab) — document-corpus analysis, classification and anonymization research.
+- [Innovativa SST Website](case-studies/innovativa-sst-website.md) — B2B plans and lead-generation workflow.
+- [Peritus SST Landing Pages](case-studies/peritus-sst-landing-pages.md) — three service pages and interactive calculators.
+- [SST Report Automation Lab](case-studies/sst-report-automation-lab.md) — document-corpus analysis, classification and anonymization research.
 
 </details>
 
@@ -107,10 +107,10 @@ Beyond the featured work, I've published focused tools across operations, financ
 
 | **17** | **06** | **03** |
 | :---: | :---: | :---: |
-| Public project repositories | Featured projects | Main specialties |
+| Documented projects | Featured projects | Main specialties |
 | Systems & automation | Diverse technical challenges | Full-stack · Automation · Applied AI |
 
-> The public projects prioritize **architecture, problem-solving and practical workflows**. The current default-branch versions provide documentation only; implementation files and runnable demos are no longer included. Historical commits may still contain earlier publications.
+> The public projects prioritize **architecture, problem-solving and practical workflows**. The linked case studies provide documentation only. Implementation repositories and their histories are private.
 
 ---
 

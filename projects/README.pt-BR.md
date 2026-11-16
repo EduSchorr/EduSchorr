@@ -16,6 +16,6 @@ Nove apresentações de projetos de automação, finanças, levantamentos e site
 | [Site institucional Innovativa SST](innovativa-sst-website/README.pt-BR.md) | HTML · CSS · JavaScript |
 | [Landing pages Peritus SST](peritus-sst-landing-pages/README.pt-BR.md) | HTML · CSS · JavaScript |
 
-Este catálogo contém somente documentação. As versões atuais das branches principais dos repositórios públicos de projetos contêm somente documentação. Commits antigos podem conter código publicado anteriormente; este catálogo não remove esse histórico.
+Este catálogo contém somente documentação. Os repositórios de implementação e seus históricos agora são privados. As apresentações públicas continuam disponíveis nos [estudos de caso](../case-studies/README.md).
 
 [Portfolio Edition](PORTFOLIO_EDITION.md) · [Voltar ao perfil](../README.pt-BR.md)
